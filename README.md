@@ -22,7 +22,7 @@ I’m a **passionate Full Stack Developer** who loves solving problems with clea
 
 ### ⚙️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi" height="48"/>
 </p>
 
 ### 🗄️ Database  
@@ -41,29 +41,23 @@ I’m a **passionate Full Stack Developer** who loves solving problems with clea
 
 ✨ Here are some projects I’ve built to showcase my skills:  
 ---
-
 ## 🚀 Projects  
 
-### 🛒 E-Commerce Website  
-<img src="https://i.ibb.co/PM9Shd8/ecommerce.gif" width="600" alt="E-Commerce Project Demo"/>  
-🔗 [Live Demo](https://shopping-website-ybcy.vercel.app/)
-➡️ Full-featured shopping site with **cart, checkout & payment flow**  
-
----
-
 ### 🌐 Personal Portfolio Website  
-<img src="https://i.ibb.co/FKNhyPj/portfolio.gif" width="600" alt="Portfolio Website Demo"/>  
-🔗 [Live Demo](https://sivakumarportfolio.netlify.app/)
-➡️ Responsive portfolio built using **React + Tailwind**, fully animated and deployed on Netlify  
+<a href="https://sivakumarportfolio.netlify.app/" target="_blank">🔗 Live Demo</a> | 
+<a href="YOUR_PORTFOLIO_REPO_LINK" target="_blank">📂 GitHub Repo</a>  
+🎨 A responsive and animated portfolio showcasing my projects & skills.  
+⚡ Built with React + TailwindCSS and deployed on Netlify.  
 
 ---
 
 ### 🎬 Movie Ticket Booking System  
-<img src="https://i.ibb.co/7Vpxq6k/movie-booking.gif" width="600" alt="Movie Booking Demo"/>  
-🔗 [Live Demo](http://bookit-web.netlify.app/)  
-➡️ Built with **React + Django**, includes **JWT Authentication** and **Razorpay-style payment flow**  
+<a href="http://bookit-web.netlify.app/" target="_blank">🔗 Live Demo</a> | 
+🎟️ Users can browse shows, select seats, and book tickets online.  
+🔐 Features JWT authentication and Razorpay-style secure payment flow.  
 
 ---
+
 
 ## 📊 GitHub Stats  
 
