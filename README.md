@@ -1,82 +1,81 @@
 # 👋 Hi, I'm Siva Kumar  
 
-
-
-🌟 **Full Stack Developer | React.js | Django | Tailwind | Python | Learning Everyday**  
+🌟 **Full Stack Developer | React.js | Django | Tailwind | Python | Always Learning**  
 
 ---
 <img src="https://i.ibb.co/mTvMtVz/skills-banner.gif" width="100%" alt="skills-banner"/>
 
+## 🚀 About Me  
 
-## 🚀 About Me
-- 🌱 Learning **Full Stack Development (React + Django + Node.js)**  
-- 👯 Looking to collaborate on **Open Source & Startup Projects**  
-- 💬 Ask me about **React, Django, Tailwind, GitHub**  
-- ⚡ Fun fact: I believe *consistency beats motivation*  
+I’m a **passionate Full Stack Developer** who loves solving problems with clean code and modern technologies.  
+- 💻 Building real-world projects using **React.js + Django + Node.js**  
+- 🌱 Exploring **full-stack best practices** & cloud deployment platforms  
+- 👯 Open to collaborating on **open-source, freelance, or startup projects**  
+- 🎯 2025 Goal: Contribute to **open-source** and crack **top tech interviews**  
+- ⚡ Motto: *Consistency beats motivation — every single day counts!*  
 
----
-<img width="48" height="48" src="https://img.icons8.com/3d-fluency/48/java.png" alt="java"/>
 ---
 
 ## 🛠️ Languages, Frameworks & Tools  
 
+### 🎨 Frontend  
 <p align="center">
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="TailwindCSS"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="48"/>
 </p>
 
+### ⚙️ Backend  
 <p align="center">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=django" height="48" alt="Django"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" height="48"/>
 </p>
 
+### 🗄️ Database  
 <p align="center">
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=postgresql" height="48" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="48"/>
 </p>
 
+### 🛠️ Tools & Platforms  
 <p align="center">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma"/>
-  <img src="https://skillicons.dev/icons?i=netlify" height="48" alt="Netlify"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,netlify,vercel" height="48"/>
 </p>
 
 ---
 
-## 📂 Projects  
-- 🎬 **Movie Ticket Booking System** → React + Django + JWT Auth + Razorpay Flow  
-- 🚖 **Taxi Booking App** → Django REST + Role-based Auth + API Integration  
-- 🌩️ **Thunder Alert & Arresting System** → IoT + Safety Case Study  
+## 📂 Featured Projects  
+
+✨ Here are some projects I’ve built to showcase my skills:  
+
+- 🛒 **E-Commerce Website** → Full-featured shopping site with cart, checkout & payment flow  
+- 🌐 **Personal Portfolio Website** → Responsive portfolio with animations (React + Tailwind)  
+- 🎬 **Movie Ticket Booking System** → React + Django + JWT Auth + Razorpay Payment Flow  
+- 🚖 **Taxi Booking App Backend** → Django REST + Role-based Auth + API integration  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaKumar089&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaKumar089&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SivaKumar089&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaKumar089&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
-## 🔗 Social Media & Networking  
+## 🔗 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/SivaKumar089)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](YOUR_TWITTER_URL)  
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/SivaKumar089">
+    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="YOUR_TWITTER_URL">
+    <img src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
