@@ -21,35 +21,39 @@
 ## 🛠️ Languages, Frameworks & Tools  
 
 <p align="center">
-  
+
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="60" alt="Frontend Skills"/>
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" height="60" alt="Backend Skills"/>
-
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="Database"/>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,netlify,vercel" height="60" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="TailwindCSS"/>
 </p>
 
----
+<p align="center">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=django" height="48" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/>
+</p>
 
-### 🌟 Tech Breakdown  
+<p align="center">
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=postgresql" height="48" alt="PostgreSQL"/>
+</p>
 
-💻 **Frontend:**  
-➡️ HTML • CSS • JavaScript • TypeScript • React • TailwindCSS  
-
-⚙️ **Backend:**  
-➡️ Python • Django • FastAPI • Node.js  
-
-🗄️ **Database:**  
-➡️ PostgreSQL  
-
-🛠️ **Tools & Platforms:**  
-➡️ VS Code • Git • GitHub • Postman • Figma • Netlify • Render  
+<p align="center">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="48" alt="Netlify"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel"/>
+</p>
 
 ---
 
