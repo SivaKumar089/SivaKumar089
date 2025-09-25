@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Sivakumar </h1>
+  <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Sivakumar K</h1>
   
   <a href="https://www.linkedin.com/in/sivakumar-k-208208288/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -20,18 +20,27 @@
 
 ```js
 const sivakumar = {
-  education: 'B.E ECE @ PSR Engineering College',
-  interests: ['Full Stack Development', 'API Development', 'Web Technologies'],
-  current: 'Learning and Working on Full Stack Projects',
-  location: 'Tamil Nadu, India',
+  education: "B.E ECE @ PSR Engineering College",
+  interests: [
+    "Full Stack Development",
+    "API Development",
+    "Web Technologies",
+    "Github",
+  ],
+  current: "Learning and Working on Full Stack Projects",
+  location: "Chennai",
   tech: {
-    backend: ['Django', 'FastAPI', 'Python'],
-    frontend: ['React.js', 'Next.js', 'Tailwind CSS', 'JavaScript', 'TypeScript'],
-    tools: ['VS Code', 'Cursor', 'Git', 'GitHub'],
-    deployment: ['Netlify', 'Vercel']
+    backend: ["Django", "FastAPI", "Python"],
+    frontend: ["React.js", "Tailwind CSS", "JavaScript", "TypeScript"],
+    tools: ["VS Code", "Cursor", "Git", "GitHub", "Postman"],
+    deployment: ["Netlify", "Vercel", "Rendar"],
   },
-  goals: ['Master Full Stack Development', 'Build Scalable Applications', 'Contribute to Open Source'],
-  funFact: "I believe in learning by building - one project at a time! 🚀"
+  goals: [
+    "Master Full Stack Development",
+    "Build Scalable Applications",
+    "Contribute to Open Source",
+  ],
+  funFact: "If not now then when,",
 };
 ```
 
@@ -60,46 +69,43 @@ const sivakumar = {
     <tr>
       <td width="50%">
         <h3 align="center">🎫 Ticket Booking App</h3>
-        <div align="center">  
-          <a href="YOUR_PROJECT_LINK" target="_blank">
-            <img src="https://via.placeholder.com/400x200/1a1a2e/16a085?text=🎫+Ticket+Booking+App" alt="Ticket Booking App"/>
-          </a>
+        <div align="center"> 
           <br>
           <br>
-          <p><strong>Full Stack Ticket Booking System</strong> - A comprehensive booking platform built with React.js frontend and Django backend. Features user authentication, seat selection, payment integration, and booking management.</p>
+          <p><strong>🎬 Movie Booking System</strong>
+          – A full-stack web app built with Django (backend) and React (frontend) that allows users to browse movies, view show timings, and book seats in real time.  
+🔐 Includes JWT authentication, role-based access (Admin, Owner, User), and Razorpay-style payment integration for seamless ticket booking.
+</p>
           <br>
           <p>
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
             <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
           </p>
-          <a href="YOUR_GITHUB_REPO" target="_blank">
-            <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          <a href="https://github.com/SivaKumar089/MovieBooking_Frontend.git" target="_blank">
+            <img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="YOUR_LIVE_DEMO" target="_blank">
+          <a href="https://github.com/SivaKumar089/MovieBooking_backend.git" target="_blank">
+            <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="http://bookit-web.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
           </a>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🚀 FastAPI Backend</h3>
+        <h3 align="center">Personal portfolio Website</h3>
         <div align="center">
-          <a href="YOUR_PROJECT_LINK" target="_blank">
-            <img src="https://via.placeholder.com/400x200/2d3436/00b894?text=🚀+FastAPI+Project" alt="FastAPI Project"/>
-          </a>
           <br>
-          <br>
-          <p><strong>High-Performance REST API</strong> - A scalable backend API built with FastAPI featuring async operations, database integration, authentication, and comprehensive documentation with automatic OpenAPI specs.</p>
+          <p><strong>Personal portfolio Website</strong>
+           - A scalable backend API built with FastAPI featuring async operations, database integration, authentication, and comprehensive documentation with automatic OpenAPI specs.</p>
           <br>
           <p>
-            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
           </p>
           <a href="YOUR_GITHUB_REPO" target="_blank">
             <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="YOUR_LIVE_DEMO" target="_blank">
+          <a href="http://sivakumarportfolio.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </div>
@@ -142,11 +148,7 @@ const sivakumar = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sivakumar089&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <h3>⭐️ <em>"Learning never stops. Building one project at a time."</em> ⭐️</h3>
+  <h3>⭐️ <em>"Learning never stops."</em> ⭐️</h3>
   <p><strong>Thanks for visiting! Feel free to connect and collaborate 🤝</strong></p>
 </div>
 
