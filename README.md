@@ -13,35 +13,44 @@
     real-world problems using modern technologies.
   </p>
 
+
+
+
+
   <br/>
 
-  <!-- BADGES -->
-   <style>.social-icons {
-  display: flex;              /* one row */
-  gap: 10px;                  /* space between icons */
-  justify-content: center;   /* center horizontally */
-  align-items: center;
-}
+  <div style="display:flex; gap:10px; justify-content:center; align-items:center;">
 
-.social-icons a img {
-  width: 36px;
-  transition: transform 0.3s ease, filter 0.3s ease;
-}
-
-  
-</style>
-
-  <div class="social-icons">
-   <a href="https://www.linkedin.com/in/sivakumar-k-208208288/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" />
-  </a>
-   <a href="https://sivakumarportfolio.netlify.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="34" />
+  <a href="https://www.linkedin.com/in/sivakumar-k-208208288/" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="34"
+      style="transition:transform 0.3s ease, filter 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 8px #0A66C2)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"
+    />
   </a>
 
-   <a href="mailto:kumarsiva200426@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="34" />
+  <a href="https://personal-porfolio-web.netlify.app/" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+      width="34"
+      style="transition:transform 0.3s ease, filter 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 8px #ef4444)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"
+    />
   </a>
+
+  <a href="mailto:kumarsiva200426@gmail.com">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+      width="34"
+      style="transition:transform 0.3s ease, filter 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 8px #000000)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"
+    />
+  </a>
+
 </div>
 
 
@@ -154,17 +163,39 @@ const sivakumar = {
   Connect With Me
 </h2>
 
-  <div class="social-icons">
-   <a href="https://www.linkedin.com/in/sivakumar-k-208208288/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" />
-  </a>
-   <a href="https://sivakumarportfolio.netlify.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="34" />
+
+  <div style="display:flex; gap:10px; justify-content:center; align-items:center;">
+
+  <a href="https://www.linkedin.com/in/sivakumar-k-208208288/" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="34"
+      style="transition:transform 0.3s ease, filter 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 8px #0A66C2)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"
+    />
   </a>
 
-   <a href="mailto:kumarsiva200426@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="34" />
+  <a href="https://personal-porfolio-web.netlify.app/" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+      width="34"
+      style="transition:transform 0.3s ease, filter 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 8px #ef4444)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"
+    />
   </a>
+
+  <a href="mailto:kumarsiva200426@gmail.com">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+      width="34"
+      style="transition:transform 0.3s ease, filter 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 8px #000000)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"
+    />
+  </a>
+
 </div>
 
 
