@@ -70,12 +70,10 @@ const sivakumar = {
   name: "Siva Kumar",
   role: "Full Stack Developer",
   location: "Chennai, India",
-
   education: "B.E – ECE | PSR Engineering College",
 
   focus: [
     "Full Stack Web Development",
-    "API Development",
     "Data Structures & Algorithms",
   ],
 
@@ -90,14 +88,8 @@ const sivakumar = {
   dsa: {
     languages: ["Python"],
     topics: [
-      "Arrays",
-      "Strings",
-      "Linked List",
-      "Stack & Queue",
-      "Recursion",
-      "Searching & Sorting",
-      "Binary Search",
-      "Basics of Trees",
+      "Arrays","Strings","Linked List","Stack & Queue","Recursion",
+      "Searching & Sorting" ,"Binary Search","Basics of Trees",
     ],
     practice: "Daily problem solving (LeetCode style)",
   },
@@ -105,13 +97,13 @@ const sivakumar = {
   projects: [
     "EV Finder & Booking Application",
     "Movie Ticket Booking System",
-    "Resume Parser (FastAPI)",
-  ],
+    ],
 
   goal: "Become a strong Full Stack Engineer",
 
   funFact: "If not now, then when?",
 };
+
 
 ```
 
